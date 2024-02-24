@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="fragmenta">FragmentA</string>
+    <string name="fragmentb">FragmentB</string>
+    <string name="fragmentc">FragmentC</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_this_is_fragment_a">Hi This is Fragment A</string>
+    <string name="hi_this_is_fragment_b">FragmentB</string>
+    <string name="hi_this_is_fragment_c">FragmentC</string>
+</resources>
